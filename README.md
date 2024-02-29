@@ -15,7 +15,7 @@ The primary objective of this project is to build a logistic regression model th
 1. **Data Preprocessing**: Exploratory data analysis and preprocessing steps including data cleaning, feature selection, and normalization.
 2. **Model Development**: Building a logistic regression model using appropriate libraries or frameworks (e.g., scikit-learn, TensorFlow).
 3. **Model Evaluation**: Assessing the model's performance using relevant metrics such as accuracy, precision, recall, and F1-score.
-4. **Visualization**: Visualizing key insights from the data and model results using plots and graphs.
+
 
 
 
