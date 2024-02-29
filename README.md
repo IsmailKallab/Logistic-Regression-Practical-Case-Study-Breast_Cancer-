@@ -22,6 +22,7 @@ The primary objective of this project is to build a logistic regression model th
 
 ### Contributors
 - [Ismail Kallab](https://github.com/IsmailKallab)
+- [Hadelin de Ponteves]
 
 ### License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it for educational or research purposes.
