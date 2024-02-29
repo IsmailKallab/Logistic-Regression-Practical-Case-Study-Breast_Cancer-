@@ -22,4 +22,7 @@ y_pred = classifier.predict(X_test)
 
 # Making the Confusion Matrix
 
-# Computing the accuracy with k-Fold Cross Validation
+# Computing the accuracy with k-Fold cross-validation
+
+
+
